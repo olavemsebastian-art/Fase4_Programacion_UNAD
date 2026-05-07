@@ -1,0 +1,66 @@
+[2026-05-06 23:18:41] ERROR: Operaciï¿½n 1 fallï¿½: 'Reserva' object has no attribute 'procesar_reserva'
+[2026-05-06 23:18:41] ERROR: Operaciï¿½n 2 fallï¿½: 'Reserva' object has no attribute 'procesar_reserva'
+[2026-05-06 23:18:41] ERROR: Operaciï¿½n 3 fallï¿½: 'Reserva' object has no attribute 'procesar_reserva'
+El nombre no puede estar vacï¿½o
+[2026-05-06 23:18:41] ERROR: Operaciï¿½n 4 fallï¿½: 'Reserva' object has no attribute 'procesar_reserva'
+[2026-05-06 23:18:41] ERROR: Operaciï¿½n 5 fallï¿½: 'Reserva' object has no attribute 'procesar_reserva'
+Correo invï¿½lido
+[2026-05-06 23:18:41] ERROR: Operaciï¿½n 6 fallï¿½: 'Reserva' object has no attribute 'procesar_reserva'
+[2026-05-06 23:18:41] ERROR: Operaciï¿½n 7 fallï¿½: El precio base debe ser mayor a 0
+[2026-05-06 23:18:41] ERROR: Operaciï¿½n 8 fallï¿½: 'Reserva' object has no attribute 'procesar_reserva'
+[2026-05-06 23:18:41] ERROR: Operaciï¿½n 9 fallï¿½: 'Reserva' object has no attribute 'procesar_reserva'
+[2026-05-06 23:18:41] ERROR: Operaciï¿½n 10 fallï¿½: 'Reserva' object has no attribute 'procesar_reserva'
+[2026-05-06 23:26:12] ERROR: 'Reserva' object has no attribute 'procesar_reserva'
+[2026-05-06 23:26:12] ERROR: 'Reserva' object has no attribute 'procesar_reserva'
+[2026-05-06 23:26:12] ERROR: 'Reserva' object has no attribute 'procesar_reserva'
+El nombre no puede estar vacï¿½o
+[2026-05-06 23:26:12] ERROR: 'Reserva' object has no attribute 'procesar_reserva'
+[2026-05-06 23:26:12] ERROR: 'Reserva' object has no attribute 'procesar_reserva'
+Correo invï¿½lido
+[2026-05-06 23:26:12] ERROR: 'Reserva' object has no attribute 'procesar_reserva'
+[2026-05-06 23:26:12] ERROR: El precio base debe ser mayor a 0
+[2026-05-06 23:26:12] ERROR: El tiempo en dï¿½as debe ser positivo
+[2026-05-06 23:26:12] ERROR: 'Reserva' object has no attribute 'procesar_reserva'
+[2026-05-06 23:26:12] ERROR: 'Reserva' object has no attribute 'procesar_reserva'
+El nombre no puede estar vacï¿½o
+[2026-05-06 23:29:52] ERROR: 'Cliente' object has no attribute 'nombre'
+Correo invï¿½lido
+[2026-05-06 23:29:52] ERROR: 'Cliente' object has no attribute 'nombre'
+[2026-05-06 23:29:52] ERROR: El precio base debe ser mayor a 0
+[2026-05-06 23:29:52] ERROR: El tiempo en dï¿½as debe ser positivo
+[2026-05-06 23:35:17] ERROR: El nombre no puede estar vacï¿½o
+[2026-05-06 23:35:17] ERROR: Correo invï¿½lido
+[2026-05-06 23:35:17] ERROR: El precio base debe ser mayor a 0
+[2026-05-06 23:35:17] ERROR: El tiempo en dï¿½as debe ser positivo
+[2026-05-06 23:35:38] ERROR: El nombre no puede estar vacï¿½o
+[2026-05-06 23:35:38] ERROR: Correo invï¿½lido
+[2026-05-06 23:35:38] ERROR: El precio base debe ser mayor a 0
+[2026-05-06 23:35:38] ERROR: El tiempo en dï¿½as debe ser positivo
+[2026-05-06 23:37:51] ERROR: El nombre no puede estar vacï¿½o
+[2026-05-06 23:37:51] ERROR: Correo invï¿½lido
+[2026-05-06 23:37:51] ERROR: El precio base debe ser mayor a 0
+[2026-05-06 23:37:51] ERROR: El tiempo en dï¿½as debe ser positivo
+[2026-05-06 23:37:57] ERROR: El nombre no puede estar vacï¿½o
+[2026-05-06 23:37:57] ERROR: Correo invï¿½lido
+[2026-05-06 23:37:57] ERROR: El precio base debe ser mayor a 0
+[2026-05-06 23:37:57] ERROR: El tiempo en dï¿½as debe ser positivo
+[2026-05-06 23:41:08] ERROR: El nombre no puede estar vacï¿½o
+[2026-05-06 23:41:08] ERROR: Correo invï¿½lido
+[2026-05-06 23:41:08] ERROR: El precio base debe ser mayor a 0
+[2026-05-06 23:41:08] ERROR: El tiempo en dï¿½as debe ser positivo
+[2026-05-06 23:43:37] ERROR: El nombre no puede estar vacï¿½o
+[2026-05-06 23:43:37] ERROR: Correo invï¿½lido
+[2026-05-06 23:43:37] ERROR: El precio base debe ser mayor a 0
+[2026-05-06 23:43:37] ERROR: El tiempo en dï¿½as debe ser positivo
+[2026-05-06 23:44:41] ERROR: El nombre no puede estar vacï¿½o
+[2026-05-06 23:44:41] ERROR: Correo invï¿½lido
+[2026-05-06 23:44:41] ERROR: El precio base debe ser mayor a 0
+[2026-05-06 23:44:41] ERROR: El tiempo en dï¿½as debe ser positivo
+[2026-05-07 00:47:40] ERROR: El nombre no puede estar vacío
+[2026-05-07 00:47:40] ERROR: Correo inválido
+[2026-05-07 00:47:40] ERROR: El precio base debe ser mayor a 0
+[2026-05-07 00:47:40] ERROR: El tiempo en días debe ser positivo
+[2026-05-07 00:47:44] ERROR: El nombre no puede estar vacío
+[2026-05-07 00:47:44] ERROR: Correo inválido
+[2026-05-07 00:47:44] ERROR: El precio base debe ser mayor a 0
+[2026-05-07 00:47:44] ERROR: El tiempo en días debe ser positivo
